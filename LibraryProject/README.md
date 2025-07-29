@@ -1,1 +1,0 @@
-LibraryProject nA Django project for learning and building a library management system.n n## Setup Instructionsn1. Install Django: pip install django n2. Run the server: `python manage.py runserver n3. Visit: http://127.0.0.1:8000/
